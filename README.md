@@ -36,7 +36,7 @@ github.com/dcarolan1/sunny-antiques (pending gh auth)
 - Stack decided ✅
 - Division of work defined (Aaron coord / Phineas build) ✅
 - SSH key sent to Zac Jiwa / Eden (Clawmatch) ✅ — Apr 7
-- gh auth login: pending (David runs once) ⏳
-- Repo push to github.com/dcarolan1/sunny-antiques: pending gh auth ⏳
+- gh auth login: ✅ Done — dcarolan1 authenticated Apr 7
+- Repo live: github.com/dcarolan1/sunny-antiques ✅
 - Phineas handoff protocol: pending (SSH or API — TBD) ⏳
 - Code: not started yet ⏳
